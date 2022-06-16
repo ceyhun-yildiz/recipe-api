@@ -1,0 +1,1 @@
+export const apiURLParam = '?apiKey=eceb6d5374ae45b38f1db45e1293d29c'

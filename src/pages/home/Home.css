@@ -1,0 +1,27 @@
+.home {
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+.filter {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.filter input {
+  min-width: 200px;
+}
+
+.filter button {
+  cursor: pointer;
+  padding: 12px;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  align-self: flex-end;
+}
+
+.filter h2 {
+  align-self: flex-end;
+  margin-right: 10px;
+}
